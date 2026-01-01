@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus ID f",
+  "description": "A comprehensive college management system featuring automated geofenced attendance, digital ID cards, and real-time dashboard for students, teachers, and parents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
